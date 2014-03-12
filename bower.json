@@ -13,7 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "vue": "~0.8.5",
     "jquery": "~2.1.0",
     "chai": "~1.9.0"
   }
